@@ -25,4 +25,10 @@ WhisprNet is a real-time chat application built using **Spring Boot**, **WebSock
 | Build Tool  | Maven                                                  |
 
 ---
+## 🚀 Video Demo
+
+
+
+https://github.com/user-attachments/assets/99cee399-8ae2-4947-95ed-0161532e234e
+
 
