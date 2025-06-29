@@ -26,19 +26,3 @@ WhisprNet is a real-time chat application built using **Spring Boot**, **WebSock
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-📦whisprnet
- ┣ 📂src
- ┃ ┣ 📂main
- ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┗ 📂com.app.chat     # Java source files
- ┃ ┃ ┣ 📂resources
- ┃ ┃ ┃ ┗ 📂static
- ┃ ┃ ┃   ┣ 📂css
- ┃ ┃ ┃   ┃ ┗ main.css       # Styling
- ┃ ┃ ┃   ┗ index.html       # Web interface
- ┃ ┗ 📄 application.properties
- ┣ 📄 js/main.js             # WebSocket + STOMP logic
- ┣ 📄 pom.xml                # Project dependencies
